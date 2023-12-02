@@ -6,6 +6,7 @@
  * @size: the number of elements in the array
  * Return: A pointer to the root node of the created BST
  *         NULL on failure
+ * A binary tree exercise for ALX
  */
 bst_t *array_to_bst(int *array, size_t size)
 {

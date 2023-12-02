@@ -4,6 +4,7 @@
  * binary_tree_is_leaf - checks if a node is a leaf
  * @node: node to check
  *
+ * A binary tree exercise for ALX
  * Return: 1 if node is a leaf
  *         0 if not a leaf
  *         0 if node is NULL

@@ -6,6 +6,7 @@
  *
  * Return: depth of the node
  *         0 if tree is NULL
+ * A binary tree exercise for ALX
  */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {

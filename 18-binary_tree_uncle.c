@@ -8,6 +8,7 @@
  *         NULL if node is NULL
  *         NULL if the parent is NULL
  *         NULL if the node has no uncle
+ * A binary tree exercise for ALX
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 {

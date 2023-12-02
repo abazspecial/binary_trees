@@ -7,6 +7,7 @@
  *
  * Return: a pointer to the root node of the created Binary Heap
  *         NULL on failure
+ * A binary tree exercise for ALX
  */
 heap_t *array_to_heap(int *array, size_t size)
 {

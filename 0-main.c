@@ -4,6 +4,7 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
+ * A binary tree exercise for ALX
  */
 int main(void)
 {

@@ -7,6 +7,7 @@
  *
  * Return: a pointer to the created node
  *         NULL on failure
+ * A binary tree exercise for ALX
  */
 heap_t *heap_insert(heap_t **root, int value)
 {

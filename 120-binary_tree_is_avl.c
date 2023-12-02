@@ -6,6 +6,7 @@
  *
  * Return: 1 if tree is avl
  *         0 otherwise
+ * A binary tree exercise for ALX
  */
 int binary_tree_is_avl(const binary_tree_t *tree)
 {

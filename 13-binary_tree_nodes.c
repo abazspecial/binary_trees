@@ -6,6 +6,7 @@
  *
  * Return: number of nodes counted
  *         0 if tree is NULL
+ * A binary tree exercise for ALX
  */
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {

@@ -4,6 +4,7 @@
  * bal - Measures balance factor of a AVL
  * @tree: tree to go through
  * Return: balanced factor
+ * A binary tree exercise for ALX
  */
 void bal(avl_t **tree)
 {

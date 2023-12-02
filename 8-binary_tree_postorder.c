@@ -4,6 +4,7 @@
  * binary_tree_postorder - goes through a binary tree using post-order traverse
  * @tree: tree to traverse
  * @func: pointer to a function to call for each node
+ * A binary tree exercise for ALX
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {

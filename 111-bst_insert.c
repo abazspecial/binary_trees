@@ -6,6 +6,7 @@
  * @value: the value to store in the node to be inserted
  * Return: A pointer to the created node
  *         NULL on failure
+ * A binary tree exercise for ALX
  */
 bst_t *bst_insert(bst_t **tree, int value)
 {

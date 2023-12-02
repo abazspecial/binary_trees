@@ -7,6 +7,7 @@
  * Return: 1 if tree is a valid Max Binary Heap
  *         0 if tree is NULL
  *         0 otherwise
+ * A binary tree exercise for ALX
  */
 int binary_tree_is_heap(const binary_tree_t *tree)
 {

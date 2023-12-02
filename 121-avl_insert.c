@@ -7,6 +7,7 @@
  * @new: type**pointer left or right insertion.
  * @nval: insertion value of the AVL.
  * Return: pointer to the new root after insertion otherwise NULL
+ * A binary tree exercise for ALX
  */
 avl_t *r_insert_node(avl_t **tree, avl_t *parent, avl_t **new, int nval)
 {

@@ -5,6 +5,7 @@
  * @tree: pointer to the root node of the tree to measure the height
  *
  * Return: Height or 0 if tree is NULL
+ * A binary tree exercise for ALX
  */
 size_t tree_size(const binary_tree_t *tree)
 {

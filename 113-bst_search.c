@@ -7,6 +7,7 @@
  * Return: A pointer to the node containing an int equal to `value`
  *         NULL if tree is NULL
  *         NULL if no match is found
+ * A binary tree exercise for ALX
  */
 bst_t *bst_search(const bst_t *tree, int value)
 {

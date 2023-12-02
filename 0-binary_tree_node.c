@@ -22,12 +22,12 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 		return (NULL);
 	}
 
-	/* assign values to the properties of the node */
+	/* This assign values to the properties of the node */
 	newNode->parent = parent;
 	newNode->n = value;
 	newNode->left = NULL;
 	newNode->right = NULL;
 
-	/* return a pointer to the node */
+	/* This return a pointer to the node */
 	return (newNode);
 }

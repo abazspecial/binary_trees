@@ -7,6 +7,7 @@
  * Return: 1 if the tree is perfect
  *         0 if the tree is not perfect
  *         0 if tree is NULL
+ * A binary tree exercise for ALX
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {

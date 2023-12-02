@@ -3,6 +3,7 @@
  * successor - get the next successor i mean the min node in the right subtree
  * @node: tree to check
  * Return: the min value of this tree
+ * A binary tree exercise for ALX
  */
 int successor(bst_t *node)
 {
